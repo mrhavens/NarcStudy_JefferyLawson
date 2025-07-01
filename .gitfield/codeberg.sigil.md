@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/NarcStudy_JefferyLawson`
 - **Remote Label**: `codeberg`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-01 18:25:15`
+- **Repo Created**: `2025-07-01 18:30:43`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-01 18:25:15`
-- **Last Commit SHA**: `8619700d7ed6ea488491355eb17a0138a27abbd3`
+- **This Commit Timestamp**: `2025-07-01 18:30:43`
+- **Last Commit SHA**: `04040452d5f7035ecd097f96519be4e99a3c2fdb`
 - **Last Commit Message**: `Post-Forgejo sync at 2025-07-01T23:21:27Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jul 1 18:25:08 2025 -0500`
-- **This Commit URL**: [https://codeberg.org/mrhavens/NarcStudy_JefferyLawson/commit/8619700d7ed6ea488491355eb17a0138a27abbd3](https://codeberg.org/mrhavens/NarcStudy_JefferyLawson/commit/8619700d7ed6ea488491355eb17a0138a27abbd3)
+- **Last Commit Date**: `Tue Jul 1 18:30:38 2025 -0500`
+- **This Commit URL**: [https://codeberg.org/mrhavens/NarcStudy_JefferyLawson/commit/04040452d5f7035ecd097f96519be4e99a3c2fdb](https://codeberg.org/mrhavens/NarcStudy_JefferyLawson/commit/04040452d5f7035ecd097f96519be4e99a3c2fdb)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `45`
-- **Tracked Files**: `56`
+- **Total Commits**: `65`
+- **Tracked Files**: `68`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 hours, 38 minutes`
+- **System Uptime**: `up 3 hours, 44 minutes`
 - **MAC Address**: `00:15:5d:a6:b6:c4`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
