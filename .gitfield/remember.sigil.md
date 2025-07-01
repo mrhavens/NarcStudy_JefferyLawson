@@ -6,24 +6,24 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/NarcStudy_JefferyLawson`
 - **Remote Label**: `remember`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-01 18:30:19`
+- **Repo Created**: `2025-07-01 18:35:44`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-01 18:30:19`
-- **Last Commit SHA**: `6053fc91e0c458b18ea91471dd8751ce8158a7f8`
+- **This Commit Timestamp**: `2025-07-01 18:35:44`
+- **Last Commit SHA**: `7217b3051f0e89bf4ca0267d9bdc31836d7a9231`
 - **Last Commit Message**: `Post-Radicle sync at 2025-07-01T23:21:27Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jul 1 18:30:13 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_JefferyLawson/commit/6053fc91e0c458b18ea91471dd8751ce8158a7f8](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_JefferyLawson/commit/6053fc91e0c458b18ea91471dd8751ce8158a7f8)
+- **Last Commit Date**: `Tue Jul 1 18:35:40 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_JefferyLawson/commit/7217b3051f0e89bf4ca0267d9bdc31836d7a9231](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_JefferyLawson/commit/7217b3051f0e89bf4ca0267d9bdc31836d7a9231)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `63`
+- **Total Commits**: `80`
 - **Tracked Files**: `68`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 hours, 43 minutes`
+- **System Uptime**: `up 3 hours, 49 minutes`
 - **MAC Address**: `00:15:5d:a6:b6:c4`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
