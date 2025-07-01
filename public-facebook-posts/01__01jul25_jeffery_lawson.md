@@ -1,0 +1,5 @@
+# 01__01jul25_jeffery_lawson.md
+## Tuesday, July 1, 2025 at 9:40 AM
+### Jeffery Lawson 
+
+Mark Havens This seems to me the Christian two step. Historically the church dictated science and persecuted those who sought other answers. As science was proved correct the church adopted these facts slowly. The undefined which I would consider X as opposed to zero was dictated by the church as “God’s mysterious unknowable ways” except it has been a continuation shrinking as science has advanced. The two step I refer to is the position that says “While mankind has uncovered this previous unknown fact, since God made everything, he gets credit for this new knowledge so no matter what’s out there it’s Gods anyways” It’s a circular logic that uses God as the putty for whatever gap, it sidesteps that the gap God gets placed in is just a present unknown, subject to the next understanding. If you get comfort for using God as this possibility, recognize that the word comes with religious baggage, my preference is to call it things we haven’t figured out yet in our best model of how everything works.
