@@ -2,28 +2,28 @@
 
 - **Project Name**: `NarcStudy_JefferyLawson`
 - **Radicle URN**: `rad://z3CKidG91FQnBxm6revMvEneaVn6V`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3CKidG91FQnBxm6revMvEneaVn6V/tree/a396e70bb6ba2e13a0112b9c20c4ffd056e1cffc](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3CKidG91FQnBxm6revMvEneaVn6V/tree/a396e70bb6ba2e13a0112b9c20c4ffd056e1cffc)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3CKidG91FQnBxm6revMvEneaVn6V/tree/a8ade56fffd37ebb0f4b11c74be534ec95d7fc15](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3CKidG91FQnBxm6revMvEneaVn6V/tree/a8ade56fffd37ebb0f4b11c74be534ec95d7fc15)
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/NarcStudy_JefferyLawson`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-01 18:35:24`
+- **Repo Created**: `2025-07-02 21:58:54`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-01 18:35:24`
-- **Last Commit SHA**: `a396e70bb6ba2e13a0112b9c20c4ffd056e1cffc`
-- **Last Commit Message**: `Post-Local sync at 2025-07-01T23:21:27Z`
+- **This Commit Timestamp**: `2025-07-02 21:58:54`
+- **Last Commit SHA**: `a8ade56fffd37ebb0f4b11c74be534ec95d7fc15`
+- **Last Commit Message**: `Post-Local sync at 2025-07-03T02:56:16Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Tue Jul 1 18:34:53 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3CKidG91FQnBxm6revMvEneaVn6V/tree/a396e70bb6ba2e13a0112b9c20c4ffd056e1cffc](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3CKidG91FQnBxm6revMvEneaVn6V/tree/a396e70bb6ba2e13a0112b9c20c4ffd056e1cffc)
+- **Commit Date**: `Wed Jul 2 21:58:11 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3CKidG91FQnBxm6revMvEneaVn6V/tree/a8ade56fffd37ebb0f4b11c74be534ec95d7fc15](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3CKidG91FQnBxm6revMvEneaVn6V/tree/a8ade56fffd37ebb0f4b11c74be534ec95d7fc15)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `78`
-- **Tracked Files**: `68`
+- **Total Commits**: `103`
+- **Tracked Files**: `80`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -47,8 +47,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 hours, 48 minutes`
-- **MAC Address**: `00:15:5d:a6:b6:c4`
+- **System Uptime**: `up 1 hour, 27 minutes`
+- **MAC Address**: `00:15:5d:ba:65:7f`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
