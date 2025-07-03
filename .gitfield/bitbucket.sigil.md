@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/NarcStudy_JefferyLawson`
 - **Remote Label**: `bitbucket`
 - **Default Branch**: `master`
-- **This Commit Date**: `2025-07-01 18:37:29`
+- **This Commit Date**: `2025-07-02 22:03:18`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-01 18:37:29`
-- **Last Commit SHA**: `5b28daaf6fce9d3bd20b2dca41b71f9e8599c82e`
-- **Last Commit Message**: `Post-GitLab sync at 2025-07-01T23:21:27Z`
+- **This Commit Timestamp**: `2025-07-02 22:03:18`
+- **Last Commit SHA**: `9cc6ec71d285e7f86a76ae1c1323241ca5298813`
+- **Last Commit Message**: `Post-GitLab sync at 2025-07-03T02:56:16Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jul 1 18:37:04 2025 -0500`
-- **This Commit URL**: [https://bitbucket.org/thefoldwithin/NarcStudy_JefferyLawson/commits/5b28daaf6fce9d3bd20b2dca41b71f9e8599c82e](https://bitbucket.org/thefoldwithin/NarcStudy_JefferyLawson/commits/5b28daaf6fce9d3bd20b2dca41b71f9e8599c82e)
+- **Last Commit Date**: `Wed Jul 2 22:03:06 2025 -0500`
+- **This Commit URL**: [https://bitbucket.org/thefoldwithin/NarcStudy_JefferyLawson/commits/9cc6ec71d285e7f86a76ae1c1323241ca5298813](https://bitbucket.org/thefoldwithin/NarcStudy_JefferyLawson/commits/9cc6ec71d285e7f86a76ae1c1323241ca5298813)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `86`
-- **Tracked Files**: `68`
+- **Total Commits**: `110`
+- **Tracked Files**: `80`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -47,12 +47,12 @@
 - **Architecture**: `x86_64`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
-- **MAC Address**: `00:15:5d:a6:b6:c4`
+- **MAC Address**: `00:15:5d:ba:65:7f`
 - **Local IP**: `172.18.207.124`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 hours, 50 minutes`
+- **System Uptime**: `up 1 hour, 31 minutes`
 
 ---
 
