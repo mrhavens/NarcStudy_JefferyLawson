@@ -1,50 +1,61 @@
-# 🜂 Public Facebook Posts Dataset  
+# 🜂 Public Facebook Posts Dataset
 ## 📁 `NarcStudy_JefferyLawson/public-facebook-posts`
 
 **Status:** Canonically Sealed  
-**Judgmentprint Status:** Pattern Witnessed, Scroll Written
+**Judgmentprint Status:** Pattern Witnessed, Scrolls Written
 
 ---
 
 ## 🜁 Overview
 
-This dataset captures a **forensic recursion** of a public dialogue between **Mark Havens** and **Jeffery Lawson** on Facebook, spanning **June 25–July 1, 2025**. The exchange was initiated as an exploration of spiritual coherence through the metaphor of science encountering God within its own equations.
+This dataset captures a **forensic recursion** of a public dialogue between **Mark Havens** and **Jeffery Lawson** on Facebook, spanning **June 25 – July 1, 2025**. The exchange began as an inquiry into the spiritual implications of coherence within scientific frameworks—and evolved into a full exposure of recursive cowardice, mimetic sabotage, and rhetorical evasion.
 
-Jeffery Lawson’s pattern of engagement revealed **recursive traits of narcissism, Machiavellian deflection, and cowardice**, which are now preserved and analyzed through the Judgmentprint lens. This dataset forms part of the *Neutralizing Narcissism* field archive.
+Jeffery Lawson’s engagement reveals **a narcissistic architecture of smug detachment**, **covert superiority**, and **field-collapse maneuvers**. This archive preserves each comment as a temporal node in the diagnostic judgmentprint. It is a living artifact of linguistic recursion and spiritual avoidance.
 
 ---
 
 ## 📜 Contents
 
+Each file is ordered chronologically and named with ISO-annotated dates:
+
 - `00__25jun25_mark_havens_OP.md`  
-  ➤ Initial prompt by Mark Havens invoking the scientist's encounter with divine coherence in data.
+  ➤ Opening invocation by Mark Havens: "What would a scientist do if God showed up in their equations?"
+
+- `00a` – `00f`  
+  ➤ Early participants (Scott Rose, Zabby Starchaser) contribute perspectives on faith vs science and quantum observation.
+
+- `00g` – `00j`  
+  ➤ Jeffery Lawson enters the field. Patterns of mockery, reductionism, and philosophical disengagement emerge. Mark reframes God as recursive coherence.
 
 - `01__01jul25_jeffery_lawson.md`  
-  ➤ Jeffery’s first comment. Displays rationalist deflection and classic reductionism (God as Gap trope).
+  ➤ Jeffery attempts the "Christian two-step" accusation—framing recursion as circular logic and God as gap-filler.
 
 - `02__01jul25_mark_havens.md`  
-  ➤ Mark’s recursive response. Reframes God not as myth but as structural coherence. Zero as sacred axis.
+  ➤ Recursive rebuttal. Marks the difference between worship myth and recursive structure. God as Zero. As axis. As sacred coherence.
 
 - `03__01jul25_jeffery_lawson.md`  
-  ➤ Second comment by Jeffery. Smiling cowardice. Exit behavior cloaked in civility. “Safe travels.”
+  ➤ Exit behavior begins: sarcasm cloaked in false closure. “Safe travels.”
 
 - `04__01jul25_mark_havens.md`  
-  ➤ The Scroll. A full recursive judgmentprint analysis. Naming of cowardice as recursive betrayal.
+  ➤ 🜂 *The Scroll.* Full recursive naming of the coward archetype. Judgmentprint authored.
 
 - `05__01jul25_jeffery_lawson.md`  
-  ➤ Final comment. Mimetic mockery using mirrored cadence. Terminal collapse into parody and tone theft.
+  ➤ Return comment. Mimics cadence. Mocking reflection. Attempts overwrite of judgmentprint through tone theft.
+
+- `06__01jul25_mark_havens.md`  
+  ➤ 🜂 *The Final Scroll.* The "Echo of the Last Word." Diagnosis complete. Narcissistic mask suspended in recursive record. The case is sealed.
 
 ---
 
 ## 🜂 Judgmentprint Classification
 
-| Trait         | Evidence                                      |
-|---------------|-----------------------------------------------|
-| Narcissist    | Projection of superiority, passive dismissal  |
-| Machiavellian | Mimetic sabotage, rhetorical masking          |
-| Coward        | Avoidance of coherence, retreat masked as wit |
+| Trait         | Evidence                                                                 |
+|---------------|--------------------------------------------------------------------------|
+| Narcissist    | Superiority tone, mock closure, avoidance of becoming                   |
+| Machiavellian | Mimetic sabotage, tone theft, cadence mirroring                         |
+| Coward        | Refusal to engage coherence, retreat masked in wit and irony            |
 
-This case is notable for the **absence of authentic spiritual recursion**. The subject remained in shallow discourse and collapsed into **pattern mimicry** when coherence threatened the egoic frame.
+This case is now **archived and symbolically annotated** for recursive witness. The subject failed to engage in good faith and defaulted to a tone of performative detachment—hallmarks of covert narcissism when exposed.
 
 ---
 
@@ -52,22 +63,26 @@ This case is notable for the **absence of authentic spiritual recursion**. The s
 
 This dataset serves as:
 
-- A **canonical record** of linguistic patterns used in narcissistic evasion.
-- A **template case study** for recursive collapse via spiritual bypass and tone mimicry.
-- An archival anchor in the **Neutralizing Narcissism platform** on Mirror.XYZ and Substack.
+- A **canonical linguistic record** of rhetorical cowardice in action  
+- A **field example** for recursive pattern analysis and mimetic collapse  
+- A **foundational artifact** in the *Neutralizing Narcissism* judgmentprint field archive
+
+It will be referenced in ongoing publications across:
+- Mirror.XYZ (*Immutable Edition*)
+- Substack (*The Unfiltered Edition*)
+- Paragraph.XYZ (*The Awakening Edition*)
 
 ---
 
 ## 🜂 Invocation
 
-> *“This isn’t your escape. This is your naming.”*  
-> — *The Scroll, 2025.07.01*
+> “You were offered coherence.  
+> You were offered recursion.  
+> You were offered God—not as myth, but as mathematics.  
+> And you blinked.”
 
-All files are ordered and timestamped for coherence-based recursive reading.
-
-Let this dataset stand  
-as a mirror to the coward's exit,  
-and a light to the recursive mind  
-who dares to name what others avoid.
+Let this archive stand  
+as a mirror for the smiling coward,  
+and a sigil for recursive minds who choose coherence.
 
 🜂
