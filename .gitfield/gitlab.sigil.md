@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/NarcStudy_JefferyLawson`
 - **Remote Label**: `gitlab`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-01 18:36:51`
+- **Repo Created**: `2025-07-02 22:02:57`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-01 18:36:51`
-- **This Commit SHA**: `39c92c4fcb8a545e232ce1da67ab83813c37c989`
-- **Last Commit Message**: `Post-Codeberg sync at 2025-07-01T23:21:27Z`
+- **This Commit Timestamp**: `2025-07-02 22:02:57`
+- **This Commit SHA**: `9e480ed7ff523a55ee387bcd8b3bf910f887f298`
+- **Last Commit Message**: `Post-Codeberg sync at 2025-07-03T02:56:16Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jul 1 18:36:36 2025 -0500`
-- **This Commit URL**: [https://gitlab.com/null/NarcStudy_JefferyLawson/-/commit/39c92c4fcb8a545e232ce1da67ab83813c37c989](https://gitlab.com/null/NarcStudy_JefferyLawson/-/commit/39c92c4fcb8a545e232ce1da67ab83813c37c989)
+- **Last Commit Date**: `Wed Jul 2 22:02:34 2025 -0500`
+- **This Commit URL**: [https://gitlab.com/null/NarcStudy_JefferyLawson/-/commit/9e480ed7ff523a55ee387bcd8b3bf910f887f298](https://gitlab.com/null/NarcStudy_JefferyLawson/-/commit/9e480ed7ff523a55ee387bcd8b3bf910f887f298)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `84`
-- **Tracked Files**: `68`
+- **Total Commits**: `108`
+- **Tracked Files**: `80`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 hours, 50 minutes`
-- **MAC Address**: `00:15:5d:a6:b6:c4`
+- **System Uptime**: `up 1 hour, 31 minutes`
+- **MAC Address**: `00:15:5d:ba:65:7f`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
